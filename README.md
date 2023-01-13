@@ -1,0 +1,12 @@
+##THIS IS JUST A READ ME FILE
+-- IT WILL CONTAIN ALL OUR DOUBTS AND PLAN
+
+---> PLAN
+-
+-
+-
+
+--> DOUBTS
+-
+-
+-
